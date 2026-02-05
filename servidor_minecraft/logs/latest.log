@@ -1,0 +1,203 @@
+[02:41:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[02:41:57] [ServerMain/INFO]: Loaded 1470 recipes
+[02:41:57] [ServerMain/INFO]: Loaded 1584 advancements
+[02:41:58] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[02:41:58] [Server thread/INFO]: Loading properties
+[02:41:58] [Server thread/INFO]: Default game type: SURVIVAL
+[02:41:58] [Server thread/INFO]: Generating keypair
+[02:41:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:41:58] [Server thread/INFO]: Preparing level "world"
+[02:41:58] [Server thread/INFO]: Loading 0 persistent chunks...
+[02:41:58] [Server thread/INFO]: Preparing spawn area: 100%
+[02:41:58] [Server thread/INFO]: Time elapsed: 12 ms
+[02:41:58] [Server thread/INFO]: Done (0.356s)! For help, type "help"
+[02:42:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[02:43:40] [User Authenticator #1/INFO]: UUID of player Herizz is a778cdf5-e972-442d-b811-6e6a0072b66c
+[02:43:42] [Server thread/INFO]: Herizz[/127.252.210.74:57013] logged in with entity id 120 at (-25.5, 73.0, 14.5)
+[02:43:42] [Server thread/INFO]: Herizz joined the game
+[02:44:20] [User Authenticator #2/INFO]: UUID of player CathyVipi4 is bb369eba-d65f-4388-9ded-f229eb4dbcf6
+[02:44:21] [Server thread/INFO]: CathyVipi4[/127.195.25.176:43487] logged in with entity id 494 at (-21.5, 73.0, 23.5)
+[02:44:21] [Server thread/INFO]: CathyVipi4 joined the game
+[02:44:39] [Server thread/INFO]: CathyVipi4 lost connection: Disconnected
+[02:44:39] [Server thread/INFO]: CathyVipi4 left the game
+[02:45:46] [Server thread/INFO]: Herizz has made the advancement [Monster Hunter]
+[02:46:37] [Server thread/INFO]: Herizz has made the advancement [Stone Age]
+[02:47:09] [Server thread/INFO]: Herizz has made the advancement [Getting an Upgrade]
+[02:49:41] [Server thread/INFO]: Herizz has made the advancement [Acquire Hardware]
+[02:50:01] [Server thread/INFO]: Herizz has made the advancement [Isn't It Iron Pick]
+[02:51:13] [User Authenticator #3/INFO]: UUID of player ShirouFRG is 1bec71a4-221b-4122-801a-bd237f513773
+[02:51:14] [Server thread/INFO]: ShirouFRG[/127.6.165.124:34249] logged in with entity id 1697 at (-9.300000011920929, 74.0, 21.135345355131562)
+[02:51:14] [Server thread/INFO]: ShirouFRG joined the game
+[02:56:19] [Server thread/INFO]: ShirouFRG has made the advancement [Monster Hunter]
+[02:56:41] [Server thread/INFO]: ShirouFRG has made the advancement [Isn't It Iron Pick]
+[02:56:46] [Server thread/INFO]: Herizz has made the advancement [Suit Up]
+[02:56:58] [Server thread/INFO]: ShirouFRG has made the advancement [Acquire Hardware]
+[02:57:22] [Server thread/INFO]: ShirouFRG has made the advancement [Stone Age]
+[03:02:55] [Server thread/INFO]: Herizz has made the advancement [Diamonds!]
+[03:03:09] [Server thread/INFO]: ShirouFRG has made the advancement [Diamonds!]
+[03:04:10] [Server thread/INFO]: ShirouFRG has made the advancement [Not Today, Thank You]
+[03:05:14] [Server thread/INFO]: ShirouFRG has made the advancement [Suit Up]
+[03:22:11] [Server thread/INFO]: Herizz drowned
+[03:22:45] [Server thread/WARN]: Couldn't find profile with name: shiroufrg+
+com.mojang.authlib.exceptions.MinecraftClientHttpException: Not Found
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:103)
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:56)
+	at com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfileByName(YggdrasilGameProfileRepository.java:110)
+	at bbu.a(SourceFile:75)
+	at bbu.a(SourceFile:136)
+	at es.a(SourceFile:66)
+	at es.a(SourceFile:32)
+	at aps.a(SourceFile:33)
+	at com.mojang.brigadier.context.ContextChain.runExecutable(ContextChain.java:73)
+	at hp.a(SourceFile:29)
+	at hp.execute(SourceFile:13)
+	at hk.a(SourceFile:8)
+	at hc.a(SourceFile:8)
+	at hg.a(SourceFile:106)
+	at ee.a(SourceFile:430)
+	at ee.a(SourceFile:362)
+	at ee.a(SourceFile:348)
+	at ary.bz(SourceFile:449)
+	at ary.K(SourceFile:439)
+	at net.minecraft.server.MinecraftServer.c(SourceFile:1156)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:1016)
+	at ary.a(SourceFile:318)
+	at net.minecraft.server.MinecraftServer.b(SourceFile:1049)
+	at net.minecraft.server.MinecraftServer.A(SourceFile:771)
+	at net.minecraft.server.MinecraftServer.a(SourceFile:301)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+[03:22:45] [Server thread/INFO]: That player does not exist
+[03:22:52] [Server thread/INFO]: Made ShirouFRG a server operator
+[03:22:58] [Server thread/INFO]: [ShirouFRG: Teleported Herizz to ShirouFRG]
+[03:23:44] [Server thread/INFO]: [ShirouFRG: Teleported Herizz to ShirouFRG]
+[03:24:42] [Server thread/INFO]: Herizz drowned
+[03:24:44] [Server thread/INFO]: [ShirouFRG: Set own game mode to Creative Mode]
+[03:24:44] [Server thread/INFO]: [ShirouFRG: Set own game mode to Adventure Mode]
+[03:24:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-16, y=73, z=21}
+[03:24:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-16, y=74, z=22}
+[03:24:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-16, y=73, z=22}
+[03:24:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-16, y=74, z=22}
+[03:24:46] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-16, y=74, z=21}
+[03:24:46] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-15, y=74, z=21}
+[03:24:46] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-15, y=74, z=20}
+[03:24:46] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-14, y=74, z=19}
+[03:24:47] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-15, y=74, z=14}
+[03:24:47] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-15, y=75, z=14}
+[03:24:47] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-15, y=75, z=13}
+[03:24:47] [Server thread/INFO]: [ShirouFRG: Set own game mode to Spectator Mode]
+[03:24:47] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-14, y=75, z=13}
+[03:24:47] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-14, y=74, z=13}
+[03:24:47] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-11, y=72, z=12}
+[03:24:48] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-11, y=73, z=12}
+[03:24:48] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-10, y=73, z=12}
+[03:24:48] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-10, y=73, z=11}
+[03:24:48] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-9, y=73, z=11}
+[03:24:48] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-9, y=73, z=10}
+[03:24:48] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-9, y=73, z=11}
+[03:24:49] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-4, y=71, z=12}
+[03:24:49] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-5, y=71, z=12}
+[03:24:49] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-5, y=70, z=13}
+[03:24:49] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-5, y=70, z=13}
+[03:24:49] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-5, y=71, z=14}
+[03:24:49] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-5, y=71, z=15}
+[03:24:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-5, y=71, z=16}
+[03:24:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-4, y=71, z=15}
+[03:24:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-4, y=71, z=14}
+[03:24:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-4, y=72, z=13}
+[03:24:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-4, y=71, z=13}
+[03:24:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-4, y=71, z=12}
+[03:24:50] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-4, y=72, z=13}
+[03:24:51] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-4, y=71, z=12}
+[03:24:51] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-4, y=71, z=11}
+[03:24:51] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-2, y=72, z=11}
+[03:24:51] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-2, y=73, z=12}
+[03:24:51] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-1, y=73, z=12}
+[03:24:51] [Server thread/INFO]: [ShirouFRG: Set own game mode to Survival Mode]
+[03:24:51] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-2, y=73, z=12}
+[03:24:51] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-1, y=73, z=12}
+[03:24:52] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-2, y=73, z=12}
+[03:24:52] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-1, y=73, z=12}
+[03:24:52] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=0, y=73, z=12}
+[03:24:52] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=0, y=74, z=12}
+[03:24:52] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=0, y=74, z=12}
+[03:24:52] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=0, y=74, z=12}
+[03:24:52] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=0, y=74, z=12}
+[03:24:52] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=0, y=74, z=12}
+[03:24:52] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1, y=74, z=13} is{x=1, y=73, z=12}
+[03:24:52] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1, y=74, z=13} is{x=1, y=73, z=12}
+[03:24:53] [Server thread/WARN]: Mismatch in destroy block pos: is{x=2, y=75, z=9} is{x=3, y=74, z=9}
+[03:24:53] [Server thread/WARN]: Mismatch in destroy block pos: is{x=2, y=75, z=9} is{x=3, y=74, z=9}
+[03:24:53] [Server thread/INFO]: [ShirouFRG: Teleported Herizz to ShirouFRG]
+[03:25:24] [Server thread/INFO]: [ShirouFRG: Teleported Herizz to ShirouFRG]
+[03:25:59] [Server thread/INFO]: Herizz drowned
+[03:26:00] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-8, y=74, z=17}
+[03:26:01] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-8, y=74, z=17}
+[03:26:01] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-6, y=72, z=15}
+[03:26:02] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-6, y=73, z=16}
+[03:26:02] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=-7, y=73, z=16}
+[03:26:07] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=0, y=74, z=23}
+[03:26:07] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=0, y=74, z=24}
+[03:26:08] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=0, y=74, z=25}
+[03:26:08] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=0, y=74, z=24}
+[03:26:08] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=0, y=74, z=23}
+[03:26:08] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=0, y=74, z=24}
+[03:26:08] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=0, y=74, z=25}
+[03:26:08] [Server thread/WARN]: Mismatch in destroy block pos: is{x=0, y=0, z=0} is{x=0, y=74, z=26}
+[03:26:09] [Server thread/INFO]: [ShirouFRG: Teleported Herizz to ShirouFRG]
+[03:26:09] [Server thread/WARN]: Mismatch in destroy block pos: is{x=1, y=74, z=28} is{x=-12, y=27, z=13}
+[03:26:39] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=-19, y=29, z=14}
+[03:26:39] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=-18, y=29, z=15}
+[03:26:40] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=-17, y=28, z=15}
+[03:26:40] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=-17, y=28, z=14}
+[03:26:40] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=-17, y=28, z=15}
+[03:26:40] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=-18, y=29, z=15}
+[03:26:40] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=-18, y=29, z=16}
+[03:26:40] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=-18, y=30, z=17}
+[03:26:40] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=-18, y=30, z=18}
+[03:26:40] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=-18, y=31, z=19}
+[03:26:40] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=-19, y=31, z=19}
+[03:26:41] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=-18, y=32, z=21}
+[03:26:41] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=-16, y=31, z=20}
+[03:26:43] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=-7, y=26, z=9}
+[03:26:44] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=-4, y=25, z=6}
+[03:26:44] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=-3, y=25, z=6}
+[03:26:44] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=-3, y=25, z=5}
+[03:26:44] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=-2, y=25, z=4}
+[03:26:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=-1, y=25, z=3}
+[03:26:45] [Server thread/WARN]: Mismatch in destroy block pos: is{x=12, y=26, z=-7} is{x=0, y=25, z=2}
+[03:26:51] [Server thread/INFO]: [ShirouFRG: Teleported Herizz to ShirouFRG]
+[03:27:57] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-11, y=27, z=14}
+[03:27:57] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-10, y=27, z=14}
+[03:27:57] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-11, y=27, z=14}
+[03:27:58] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-11, y=27, z=14}
+[03:27:58] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-10, y=27, z=14}
+[03:27:59] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-10, y=26, z=13}
+[03:27:59] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-11, y=27, z=13}
+[03:27:59] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-11, y=27, z=14}
+[03:28:00] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-11, y=27, z=13}
+[03:28:03] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-10, y=27, z=14}
+[03:28:05] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-10, y=27, z=14}
+[03:28:07] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-10, y=27, z=14}
+[03:28:08] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-10, y=27, z=15}
+[03:28:08] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-10, y=27, z=15}
+[03:28:10] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-11, y=27, z=14}
+[03:28:15] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-11, y=27, z=14}
+[03:28:27] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-10, y=27, z=14}
+[03:28:27] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-10, y=27, z=15}
+[03:28:35] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-10, y=27, z=15}
+[03:29:07] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-10, y=27, z=15}
+[03:29:13] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-9, y=26, z=14}
+[03:29:13] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-9, y=26, z=13}
+[03:29:14] [Server thread/INFO]: [ShirouFRG: Made Herizz a server operator]
+[03:29:14] [Server thread/WARN]: Mismatch in destroy block pos: is{x=18, y=28, z=-6} is{x=-7, y=25, z=12}
+[03:32:41] [Server thread/INFO]: Herizz has made the advancement [Not Today, Thank You]
+[03:34:49] [Server thread/INFO]: ShirouFRG has made the advancement [Sweet Dreams]
+[03:34:50] [Server thread/INFO]: Herizz has made the advancement [Sweet Dreams]
+[03:40:16] [Server thread/INFO]: Herizz has made the advancement [Voluntary Exile]
+[03:44:38] [Server thread/INFO]: Herizz fell from a high place
+[03:44:50] [Server thread/INFO]: [ShirouFRG: Teleported Herizz to ShirouFRG]
+[03:54:28] [Server thread/INFO]: Herizz lost connection: Disconnected
+[03:54:28] [Server thread/INFO]: Herizz left the game
+[03:55:25] [Server thread/INFO]: ShirouFRG lost connection: Disconnected
+[03:55:25] [Server thread/INFO]: ShirouFRG left the game
+[03:56:25] [Server thread/INFO]: Server empty for 60 seconds, pausing
